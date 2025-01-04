@@ -19,6 +19,8 @@ Email: [rifat010bushra@gmail.com](mailto:rifat010bushra@gmail.com)
 
 **Objective:** Build a machine learning model to predict the aggregate rating of a restaurant based on other features.
 
+![task1](./ML%20Tasks/Outputs/GUI%20Preview/task%201.png)
+
 **Steps:**
 
 1. Preprocessed the dataset by handling missing values, encoding categorical variables, and splitting the data into training and testing sets.
@@ -32,6 +34,8 @@ Email: [rifat010bushra@gmail.com](mailto:rifat010bushra@gmail.com)
 
 **Objective:** Create a recommendation system to suggest restaurants based on user preferences.
 
+![task2](./ML%20Tasks/Outputs/GUI%20Preview/task%202.png)
+
 **Steps:**
 
 1. Preprocessed the dataset by handling missing values and encoding categorical variables.
@@ -44,6 +48,8 @@ Email: [rifat010bushra@gmail.com](mailto:rifat010bushra@gmail.com)
 ### Task 3: Cuisine Classification
 
 **Objective:** Develop a machine learning model to classify restaurants based on their cuisines.
+
+![task3](./ML%20Tasks/Outputs/GUI%20Preview/task%203.png)
 
 **Steps:**
 
@@ -60,6 +66,10 @@ Email: [rifat010bushra@gmail.com](mailto:rifat010bushra@gmail.com)
 ### Task 4: Location-Based Analysis
 
 **Objective:** Perform geographical analysis of restaurants in the dataset.
+
+![task4](./ML%20Tasks/Outputs/GUI%20Preview/task%204.1.png)
+
+![task4](./ML%20Tasks/Outputs/GUI%20Preview/task%204.2.png)
 
 **Steps:**
 
